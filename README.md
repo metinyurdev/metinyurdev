@@ -57,7 +57,7 @@ A comparative analysis of sentiment classification models, leveraging **VADER an
 ### 🦠 **[Human Gut Microbiome Regression - Deep Learning](https://github.com/metinyurdev/Human_Gut_Microbiome_Regression_Deep_Learning)**
 A deep learning approach to predict human gut microbiome patterns using **advanced regression techniques**.
 
-### 🔎 **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/metinyurdev/Your-RAG-Project)**
+### 🔎 **[ChatRAG_Multi-Model_AI_Chat](https://github.com/metinyurdev/ChatRAG_Multi-Model_AI_Chat)**
 Building a smart **RAG-powered chatbot** to enhance conversational AI with knowledge retrieval capabilities.
 
 For more projects, check out **[My GitHub Repos](https://github.com/metinyurdev?tab=repositories)**! 🚀
