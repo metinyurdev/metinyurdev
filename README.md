@@ -76,6 +76,9 @@ Building a smart **RAG-powered chatbot** to enhance conversational AI with knowl
 ### 🚶‍♂️ **[Pedestrian Detection with YOLOv8](https://github.com/metinyurdev/pedestrian-detection-with-yolov8)**  
 A **Streamlit-based app** for detecting pedestrians in images using **YOLOv8**. Features include automatic day/night theme switching, user-friendly interface, and downloadable results.
 
+### 📄💬 **[Multi-Model PDF Rag Chat App](https://github.com/metinyurdev/Multi-Model_PDF_Rag_Chat_Bot)**
+PDF Rag Chat Bot allows users to seamlessly interact with PDF documents by selecting from a variety of powerful AI models. With multi-PDF support, customizable themes, and a user-friendly interface, this app offers an intuitive experience for extracting information and engaging in dynamic conversations with documents.
+
 For more projects, check out **[My GitHub Repos](https://github.com/metinyurdev?tab=repositories)**! 🚀
 
 ---
