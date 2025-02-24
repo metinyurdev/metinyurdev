@@ -12,6 +12,7 @@
 - 🔥 I prefer working on challenging and **non-routine** projects that bring real innovation rather than following mainstream solutions.
 - 💻 Though I have a strong **backend development** background, I now primarily use **Python** to tackle AI-driven challenges.
 - 🌍 I thrive on solving **real-world problems** through advanced AI & Data solutions.
+- 🚀 Recently, I developed a **Pedestrian Detection App** using **YOLOv8** and **Streamlit**, which automatically switches between day and night themes and provides a user-friendly interface for detecting pedestrians in images.
 
 ---
 
@@ -39,8 +40,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![LangChain](https://img.shields.io/badge/LangChain-00599C?style=for-the-badge)  
-![Ollama](https://img.shields.io/badge/Ollama-AI-green?style=for-the-badge&logo=ollama)
-
+![Ollama](https://img.shields.io/badge/Ollama-AI-green?style=for-the-badge&logo=ollama)  
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=yolo&logoColor=black)  
 
 ### ☁️ DevOps & Tools:
 
@@ -52,7 +53,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
-
 ### 🌐 Operating System:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
@@ -60,19 +60,21 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
-
 ---
 
 ## 🏆 Featured Projects
 
-### 🚀 **[NLP Sentiment Analysis: VADER vs RoBERTa](https://github.com/metinyurdev/Nlp_Sentiment_Analysis_Varder_vs_RoBERTa)**
+### 🚀 **[NLP Sentiment Analysis: VADER vs RoBERTa](https://github.com/metinyurdev/Nlp_Sentiment_Analysis_Varder_vs_RoBERTa)**  
 A comparative analysis of sentiment classification models, leveraging **VADER and RoBERTa** to evaluate performance.
 
-### 🦠 **[Human Gut Microbiome Regression - Deep Learning](https://github.com/metinyurdev/Human_Gut_Microbiome_Regression_Deep_Learning)**
+### 🦠 **[Human Gut Microbiome Regression - Deep Learning](https://github.com/metinyurdev/Human_Gut_Microbiome_Regression_Deep_Learning)**  
 A deep learning approach to predict human gut microbiome patterns using **advanced regression techniques**.
 
-### 🔎 **[ChatRAG_Multi-Model_AI_Chat](https://github.com/metinyurdev/ChatRAG_Multi-Model_AI_Chat)**
+### 🔎 **[ChatRAG_Multi-Model_AI_Chat](https://github.com/metinyurdev/ChatRAG_Multi-Model_AI_Chat)**  
 Building a smart **RAG-powered chatbot** to enhance conversational AI with knowledge retrieval capabilities.
+
+### 🚶‍♂️ **[Pedestrian Detection with YOLOv8](https://github.com/metinyurdev/pedestrian-detection-with-yolov8)**  
+A **Streamlit-based app** for detecting pedestrians in images using **YOLOv8**. Features include automatic day/night theme switching, user-friendly interface, and downloadable results.
 
 For more projects, check out **[My GitHub Repos](https://github.com/metinyurdev?tab=repositories)**! 🚀
 
