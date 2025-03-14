@@ -42,7 +42,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00599C?style=for-the-badge)  
 ![Ollama](https://img.shields.io/badge/Ollama-AI-green?style=for-the-badge&logo=ollama)  
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=yolo&logoColor=black)  
-
+![Unsloth](https://img.shields.io/badge/Unsloth-Efficient%20Fine%20Tuning-blue?style=for-the-badge)
 ### ☁️ DevOps & Tools:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
