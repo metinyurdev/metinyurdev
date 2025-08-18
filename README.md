@@ -56,7 +56,7 @@
 ### 🌐 Operating System:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=windows&logoColor=white)  
+![OS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=windows&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
