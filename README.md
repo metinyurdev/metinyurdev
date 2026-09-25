@@ -1,92 +1,97 @@
 ### Hi there, I'm Metin Yurduseven! 👋
 
-🚀 **AI & Data Engineer | Machine Learning | NLP | Data Engineering**  
-🔬 Passionate about **AI Agents, Transformers, RAG, and Fine-Tuning**  
-💡 Always exploring innovative ways to push the boundaries of AI & Data Science  
+🚀 **AI & Software Engineer**  
+🔬 Specializing in **Agentic RAG, Multi-Stage LLM Fine-Tuning (PEFT/LoRA), and Full-Stack AI Product Architectures**  
+💡 Bridging high-accuracy generative AI research with scalable, production-ready enterprise software systems  
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 I specialize in **Data Engineering, AI, NLP, and Machine Learning**. My focus is on cutting-edge AI advancements, such as **Transformers, Fine-Tuning, RAG (Retrieval-Augmented Generation), and AI Agents**.
-- 🔥 I prefer working on challenging and **non-routine** projects that bring real innovation rather than following mainstream solutions.
-- 💻 Though I have a strong **backend development** background, I now primarily use **Python** to tackle AI-driven challenges.
-- 🌍 I thrive on solving **real-world problems** through advanced AI & Data solutions.
-- 🚀 Recently, I developed a **Pedestrian Detection App** using **YOLOv8** and **Streamlit**, which automatically switches between day and night themes and provides a user-friendly interface for detecting pedestrians in images.
+- 🎓 **Background:** Computer Engineering graduate focused on building robust, end-to-end AI applications, enterprise-grade RAG frameworks, and domain-adapted LLMs.
+- 🔬 **Fine-Tuning & LLMOps:** Experienced in training and aligning open-source LLMs (Qwen2.5-14B) across multi-phase curricula (Domain Adaptation ➔ Clinical Reasoning ➔ Ethical Guardrails) via Unsloth & PEFT/LoRA, benchmarking with **LLM-as-a-Judge** and **BERTScore/DeBERTa-v3**.
+- ⚡ **Agentic & Hybrid RAG:** Architecting high-precision retrieval engines pairing dense semantic vector search (**Qdrant, FAISS**) with sparse retrieval (**BM25**), reranking (**bge-reranker**), dynamic query transformation, and hierarchical multi-agent orchestration.
+- 💻 **Full-Stack Engineering:** Designing high-throughput, asynchronous backends with **Python & FastAPI**, crafting reactive modern UIs with **React, Vite & Tailwind CSS**, and orchestrating multi-container services with **Docker Compose**.
+- ✍️ **Technical Writing:** Publishing in-depth technical blogs on **HackerNoon** deconstructing RAG mechanics, retrieval-generation dynamics, and advanced LLM systems.
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
-### 🛠 Languages & Tools:
+### 🧠 AI, LLMs & Retrieval Frameworks:
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=for-the-badge&logo=llamaindex&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-PEFT%20%2F%20QLoRA-blue?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20Inference-black?style=for-the-badge&logo=ollama&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-Observability-orange?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+### 🗄️ Vector Stores & Databases:
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Dense%20Search-00599C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🗄️ Databases:
+### 🛠️ Full-Stack & Backend:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-
-### 🔬 AI & ML Frameworks:
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-00599C?style=for-the-badge)  
-![Ollama](https://img.shields.io/badge/Ollama-AI-green?style=for-the-badge&logo=ollama)  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=yolo&logoColor=black)  
-![Unsloth](https://img.shields.io/badge/Unsloth-Efficient%20Fine%20Tuning-blue?style=for-the-badge)
-### ☁️ DevOps & Tools:
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)    
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
-
-### 🌐 Operating System:
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![OS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=windows&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+### ☁️ Infrastructure & Developer Tools:
+![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🚀 **[NLP Sentiment Analysis: VADER vs RoBERTa](https://github.com/metinyurdev/Nlp_Sentiment_Analysis_Varder_vs_RoBERTa)**  
-A comparative analysis of sentiment classification models, leveraging **VADER and RoBERTa** to evaluate performance.
+### 🩺 **[Clinical AI Assistant: Multi-Stage PEFT & Reasoning Alignment](https://github.com/metinyurdev)** *(Undergraduate Thesis)*
+- **3-Stage Fine-Tuning Pipeline:** Aligned a `Qwen2.5-14B-Instruct` model across three consecutive phases (*Domain Knowledge ➔ Clinical Reasoning ➔ Ethical Guardrails*) using Unsloth (PEFT/QLoRA) while mitigating catastrophic forgetting.
+- **Red-Teaming & Synthetic Data:** Built an automated data engine via Llama-3 generating adversarial counter-samples to enforce biomedical refusal protocols and safety guardrails.
+- **Evaluation Framework:** Executed **LLM-as-a-Judge** scoring (GPT-4o-mini) and deconstructed formatting bias using **DeBERTa-v3 BERTScore** (achieving 72.67% semantic fidelity, +5.29 points over base), with a **99.00%** Clinical Safety score and **~91.00%** Hallucination Prevention Rate.
+- **Local LLMOps:** Quantized final weights into GGUF format for private, zero-latency clinical deployment via Ollama, hosting adapters on Gated HuggingFace repos.
 
-### 🦠 **[Human Gut Microbiome Regression - Deep Learning](https://github.com/metinyurdev/Human_Gut_Microbiome_Regression_Deep_Learning)**  
-A deep learning approach to predict human gut microbiome patterns using **advanced regression techniques**.
+### 🛡️ **[NEXUS - Enterprise Multi-Agent Compliance Auditor](https://github.com/metinyurdev/nexus-compliance-agent)**
+- **Agentic RAG Orchestration:** Hierarchical multi-agent framework powered by **LlamaIndex Core** and **OpenAI GPT-4o** orchestrating specialized sub-agents (*Contract Auditor, Regulation Specialist, Web Researcher via DDGS*).
+- **Two-Stage Retrieval Pipeline:** Integrated **BAAI/bge-m3** (1024-dim dense embeddings) with a **BAAI/bge-reranker-base cross-encoder** to eliminate context loss.
+- **Multi-Tenant Security:** Configured session-isolated, metadata-filtered vector namespaces in **Qdrant Vector DB** to prevent cross-session context leakage.
+- **Full-Stack Observability:** Embedded a self-hosted **Langfuse** tracing stack over PostgreSQL to monitor token usage, latency, and tool execution spans in real time, containerized with **Docker Compose** alongside a **FastAPI + React (Vite/Tailwind)** UI.
 
-### 🔎 **[ChatRAG_Multi-Model_AI_Chat](https://github.com/metinyurdev/ChatRAG_Multi-Model_AI_Chat)**  
-Building a smart **RAG-powered chatbot** to enhance conversational AI with knowledge retrieval capabilities.
+### ⚡ **[NEXUS RAG - Enterprise Hybrid Search Engine](https://github.com/metinyurdev/nexus-rag)**
+- **Hybrid Retrieval:** Combined dense semantic vector search (**FAISS**) with sparse keyword search (**BM25**) to maximize recall and precision.
+- **Multi-Stage Processing:** Structured query transformation, cross-encoder reranking, and context compression to minimize prompt bloat and eliminate hallucinations.
+- **Production-Ready Features:** Real-time token streaming via **Server-Sent Events (SSE)**, session-scoped document isolation, page-level citations, and automated evaluation using **RAGAS** (Faithfulness & Relevancy).
+- **Tech Stack:** Python 3.10, FastAPI, React 18, Vite, Tailwind CSS, LangChain, Ollama, Docker Compose.
 
-### 🚶‍♂️ **[Pedestrian Detection with YOLOv8](https://github.com/metinyurdev/pedestrian-detection-with-yolov8)**  
-A **Streamlit-based app** for detecting pedestrians in images using **YOLOv8**. Features include automatic day/night theme switching, user-friendly interface, and downloadable results.
+### 💾 **[Enterprise Text-to-SQL Full-Stack Platform](https://github.com/metinyurdev/text2sql_fullstack_app)**
+- **Natural Language Database Querying:** AI-driven system translating complex natural language requests into optimized, executable PostgreSQL queries using open-source LLMs (Llama 3.2 via Ollama).
+- **Security & Full-Stack Architecture:** High-concurrency **FastAPI** backend secured with granular **JWT-based authentication**, coupled with an interactive **React + Vite** frontend.
 
-### 📄💬 **[PDF Multi-Model Rag Chat App](https://github.com/metinyurdev/Multi-Model_PDF_Rag_Chat_Bot)**
-PDF Rag Chat Bot allows users to seamlessly interact with PDF documents by selecting from a variety of powerful AI models. With multi-PDF support, customizable themes, and a user-friendly interface, this app offers an intuitive experience for extracting information and engaging in dynamic conversations with documents.
+---
 
-For more projects, check out **[My GitHub Repos](https://github.com/metinyurdev?tab=repositories)**! 🚀
+## 📝 Recent Articles & Publications
+
+- 📖 **[RAG Systems Are Breaking the Barriers of Language Models: Here's How](https://hackernoon.com/u/metinyurdev)** *(HackerNoon)*
+- 📖 **[How Retrieval and Generation Work Hand in Hand in RAG](https://hackernoon.com/u/metinyurdev)** *(HackerNoon)*
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metin-yurduseven)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metin.yrdsvn@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metin-yurduseven)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metinyurdev)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.com/metinyurdev)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00EB88?style=for-the-badge&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/metinyurdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metin.yrdsvn@gmail.com)
 
-Let's connect and talk about **AI, Data, and the Future of Technology!** 🚀
-
+*Open to engineering collaborations, research initiatives, and advanced AI system architectures.*
