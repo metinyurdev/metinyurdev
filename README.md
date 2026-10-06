@@ -83,6 +83,7 @@
 
 - 📖 **[RAG Systems Are Breaking the Barriers of Language Models: Here's How](https://hackernoon.com/u/metinyurdev)** *(HackerNoon)*
 - 📖 **[How Retrieval and Generation Work Hand in Hand in RAG](https://hackernoon.com/u/metinyurdev)** *(HackerNoon)*
+- 📖 **[The LLM Operating System: Transformers, Limitations, and the Need for Adaptation](https://hackernoon.com/u/metinyurdev)** *(HackerNoon)*
 
 ---
 
