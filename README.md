@@ -2,7 +2,9 @@
 
 🚀 **AI & Software Engineer**  
 🔬 Specializing in **Agentic RAG, Multi-Stage LLM Fine-Tuning (PEFT/LoRA), and Full-Stack AI Product Architectures**  
-💡 Bridging high-accuracy generative AI research with scalable, production-ready enterprise software systems  
+💡 Bridging high-accuracy generative AI research with scalable, production-ready enterprise software systems
+
+[![Portfolio](https://img.shields.Ycom/badge/portfolio-metinyur.dev-purple?style=for-the-badge&logo=Vercel)](https://metinyur.dev)
 
 ---
 
